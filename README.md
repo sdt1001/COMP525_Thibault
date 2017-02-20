@@ -1,2 +1,2 @@
 # COMP525_Thibault
-Django Use
+This is my Django Repository for COMP525!!
